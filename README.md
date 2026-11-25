@@ -9,3 +9,7 @@ I am too lazy to patch the issues when the game is supposed to open in a new tab
 Davey(@SuperCoder-pixel) found a working emulator link, so the patch has been applied to davey_fix in both repositories, his fork and the original.
 
 hey @SuperCoder-pixel, please dont doxx me lmao 
+
+I have recently just found a massive issue (reported to me by @SuperCoder-pixel)!If you stack 9 Fire Red ROMs, 6 Crystal ROMs, and and 5 Pokemon Rhythm ROMs (this is a GBA ROM hack), the page will freeze!
+
+To prevent this from happening, DON'T FREAKING OPEN LIKE 5 BILLION GAMES
